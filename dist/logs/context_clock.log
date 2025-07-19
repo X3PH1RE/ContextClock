@@ -93,3 +93,85 @@
 2025-07-19 22:37:41,981 - src.context_clock - INFO - Shutting down Context Clock...
 2025-07-19 22:37:42,371 - src.context_clock - INFO - Context Clock shutdown completed
 2025-07-19 22:37:42,371 - src.ui.system_tray - INFO - Exit requested from system tray
+2025-07-19 22:50:50,152 - src.actions.audio - INFO - Audio backend: pygame
+2025-07-19 22:50:50,157 - src.config_manager - INFO - Configuration loaded successfully
+2025-07-19 22:50:50,245 - src.ui.system_tray - WARNING - System tray does not support balloon messages
+2025-07-19 22:50:50,246 - src.context_clock - INFO - System tray setup completed
+2025-07-19 22:50:51,439 - src.context_clock - INFO - Configuration dashboard setup completed
+2025-07-19 22:50:51,439 - src.context_clock - INFO - Time block changed: None -> night
+2025-07-19 22:50:51,439 - src.context_clock - INFO - Executing actions for time block: night
+2025-07-19 22:50:51,439 - src.context_clock - INFO - Changing wallpaper: C:/Users/Ashwin/Pictures/Wallpapers/night_stars.jpg
+2025-07-19 22:50:51,439 - src.actions.wallpaper - WARNING - Wallpaper file does not exist: C:/Users/Ashwin/Pictures/Wallpapers/night_stars.jpg
+2025-07-19 22:50:51,440 - src.actions.wallpaper - ERROR - Invalid wallpaper file: C:/Users/Ashwin/Pictures/Wallpapers/night_stars.jpg
+2025-07-19 22:50:51,440 - src.context_clock - WARNING - Failed to change wallpaper
+2025-07-19 22:50:51,440 - src.context_clock - INFO - Opening websites: ['https://calm.com']
+2025-07-19 22:50:51,440 - src.actions.websites - INFO - Opening website: https://calm.com
+2025-07-19 22:50:51,733 - src.actions.websites - INFO - Website opened successfully: https://calm.com
+2025-07-19 22:50:51,733 - src.actions.websites - INFO - Opened 1/1 websites successfully
+2025-07-19 22:50:51,733 - src.context_clock - INFO - Opened 1/1 websites successfully
+2025-07-19 22:50:51,733 - src.context_clock - INFO - Playing audio: C:/Music/Night/sleep_sounds.mp3
+2025-07-19 22:50:51,733 - src.actions.audio - WARNING - Audio file does not exist: C:/Music/Night/sleep_sounds.mp3
+2025-07-19 22:50:51,733 - src.actions.audio - ERROR - Invalid audio file: C:/Music/Night/sleep_sounds.mp3
+2025-07-19 22:50:51,733 - src.context_clock - WARNING - Failed to start audio playback
+2025-07-19 22:50:51,733 - src.context_clock - INFO - Completed actions for time block: night
+2025-07-19 22:50:51,734 - src.config_manager - INFO - Current time block set to: night
+2025-07-19 22:50:51,734 - src.context_clock - INFO - Time block change handled: None -> night
+2025-07-19 22:50:51,734 - src.context_clock - INFO - Time monitoring started (checking every 5 minutes)
+2025-07-19 22:50:51,735 - src.context_clock - INFO - Context Clock application setup completed
+2025-07-19 22:50:51,737 - src.context_clock - INFO - System tray icon shown
+2025-07-19 22:50:51,737 - __main__ - INFO - Context Clock started successfully
+2025-07-19 22:51:04,808 - src.actions.audio - INFO - Audio backend: pygame
+2025-07-19 22:51:04,816 - src.config_manager - INFO - Configuration loaded successfully
+2025-07-19 22:51:04,880 - src.ui.system_tray - WARNING - System tray does not support balloon messages
+2025-07-19 22:51:04,880 - src.context_clock - INFO - System tray setup completed
+2025-07-19 22:51:05,978 - src.context_clock - INFO - Configuration dashboard setup completed
+2025-07-19 22:51:05,978 - src.context_clock - INFO - Time block changed: None -> night
+2025-07-19 22:51:05,978 - src.context_clock - INFO - Executing actions for time block: night
+2025-07-19 22:51:05,979 - src.context_clock - INFO - Changing wallpaper: C:/Users/Ashwin/Pictures/Wallpapers/night_stars.jpg
+2025-07-19 22:51:05,979 - src.actions.wallpaper - WARNING - Wallpaper file does not exist: C:/Users/Ashwin/Pictures/Wallpapers/night_stars.jpg
+2025-07-19 22:51:05,979 - src.actions.wallpaper - ERROR - Invalid wallpaper file: C:/Users/Ashwin/Pictures/Wallpapers/night_stars.jpg
+2025-07-19 22:51:05,979 - src.context_clock - WARNING - Failed to change wallpaper
+2025-07-19 22:51:05,979 - src.context_clock - INFO - Opening websites: ['https://calm.com']
+2025-07-19 22:51:05,979 - src.actions.websites - INFO - Opening website: https://calm.com
+2025-07-19 22:51:06,223 - src.actions.websites - INFO - Website opened successfully: https://calm.com
+2025-07-19 22:51:06,223 - src.actions.websites - INFO - Opened 1/1 websites successfully
+2025-07-19 22:51:06,223 - src.context_clock - INFO - Opened 1/1 websites successfully
+2025-07-19 22:51:06,223 - src.context_clock - INFO - Playing audio: C:/Music/Night/sleep_sounds.mp3
+2025-07-19 22:51:06,223 - src.actions.audio - WARNING - Audio file does not exist: C:/Music/Night/sleep_sounds.mp3
+2025-07-19 22:51:06,223 - src.actions.audio - ERROR - Invalid audio file: C:/Music/Night/sleep_sounds.mp3
+2025-07-19 22:51:06,223 - src.context_clock - WARNING - Failed to start audio playback
+2025-07-19 22:51:06,223 - src.context_clock - INFO - Completed actions for time block: night
+2025-07-19 22:51:06,267 - src.config_manager - INFO - Current time block set to: night
+2025-07-19 22:51:06,267 - src.context_clock - INFO - Time block change handled: None -> night
+2025-07-19 22:51:06,267 - src.context_clock - INFO - Time monitoring started (checking every 5 minutes)
+2025-07-19 22:51:06,267 - src.context_clock - INFO - Context Clock application setup completed
+2025-07-19 22:51:06,303 - src.context_clock - INFO - System tray icon shown
+2025-07-19 22:51:06,303 - __main__ - INFO - Context Clock started successfully
+2025-07-19 22:51:17,501 - src.ui.system_tray - INFO - Opened configuration file for editing
+2025-07-19 22:51:28,595 - src.context_clock - INFO - Configuration dashboard opened
+2025-07-19 22:51:28,595 - src.ui.system_tray - INFO - Notification: Configuration Dashboard - Dashboard opened. Make your changes and they'll be saved automatically!
+2025-07-19 22:51:28,595 - src.ui.system_tray - INFO - Configuration dashboard requested
+2025-07-19 22:51:35,108 - src.context_clock - INFO - Configuration changed via dashboard
+2025-07-19 22:51:35,108 - src.context_clock - INFO - Executing actions for time block: afternoon
+2025-07-19 22:51:35,109 - src.context_clock - INFO - Completed actions for time block: afternoon
+2025-07-19 22:51:35,109 - src.config_manager - INFO - Current time block set to: afternoon
+2025-07-19 22:51:35,110 - src.context_clock - INFO - Time block change handled: night -> afternoon
+2025-07-19 22:51:35,110 - src.ui.system_tray - INFO - Notification: Configuration Applied - Your changes have been saved and applied successfully!
+2025-07-19 22:51:45,262 - src.context_clock - INFO - Configuration changed via dashboard
+2025-07-19 22:51:45,263 - src.context_clock - INFO - Executing actions for time block: evening
+2025-07-19 22:51:45,263 - src.context_clock - INFO - Completed actions for time block: evening
+2025-07-19 22:51:45,263 - src.config_manager - INFO - Current time block set to: evening
+2025-07-19 22:51:45,263 - src.context_clock - INFO - Time block change handled: afternoon -> evening
+2025-07-19 22:51:45,263 - src.ui.system_tray - INFO - Notification: Configuration Applied - Your changes have been saved and applied successfully!
+2025-07-19 22:51:48,628 - src.context_clock - INFO - Configuration changed via dashboard
+2025-07-19 22:51:48,636 - src.context_clock - INFO - Executing actions for time block: evening
+2025-07-19 22:51:48,636 - src.context_clock - INFO - Completed actions for time block: evening
+2025-07-19 22:51:48,636 - src.ui.system_tray - INFO - Notification: Configuration Applied - Your changes have been saved and applied successfully!
+2025-07-19 22:52:11,405 - src.context_clock - INFO - Configuration changed via dashboard
+2025-07-19 22:52:11,405 - src.context_clock - INFO - Executing actions for time block: evening
+2025-07-19 22:52:11,407 - src.context_clock - INFO - Completed actions for time block: evening
+2025-07-19 22:52:11,407 - src.ui.system_tray - INFO - Notification: Configuration Applied - Your changes have been saved and applied successfully!
+2025-07-19 22:52:12,485 - src.context_clock - INFO - Configuration changed via dashboard
+2025-07-19 22:52:12,485 - src.context_clock - INFO - Executing actions for time block: evening
+2025-07-19 22:52:12,485 - src.context_clock - INFO - Completed actions for time block: evening
+2025-07-19 22:52:12,485 - src.ui.system_tray - INFO - Notification: Configuration Applied - Your changes have been saved and applied successfully!

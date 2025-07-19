@@ -55,3 +55,30 @@
 2025-07-19 22:33:57,300 - src.context_clock - INFO - Shutting down Context Clock...
 2025-07-19 22:33:57,346 - src.context_clock - INFO - Context Clock shutdown completed
 2025-07-19 22:33:57,347 - src.ui.system_tray - INFO - Exit requested from system tray
+2025-07-19 22:48:41,633 - src.actions.audio - INFO - Audio backend: pygame
+2025-07-19 22:48:41,641 - src.config_manager - INFO - Configuration loaded successfully
+2025-07-19 22:48:41,785 - src.ui.system_tray - WARNING - System tray does not support balloon messages
+2025-07-19 22:48:41,786 - src.context_clock - INFO - System tray setup completed
+2025-07-19 22:48:43,043 - src.context_clock - INFO - Configuration dashboard setup completed
+2025-07-19 22:48:43,043 - src.context_clock - INFO - Time block changed: None -> night
+2025-07-19 22:48:43,043 - src.context_clock - INFO - Executing actions for time block: night
+2025-07-19 22:48:43,044 - src.context_clock - INFO - Changing wallpaper: C:/Users/Ashwin/Pictures/Wallpapers/night_stars.jpg
+2025-07-19 22:48:43,044 - src.actions.wallpaper - WARNING - Wallpaper file does not exist: C:/Users/Ashwin/Pictures/Wallpapers/night_stars.jpg
+2025-07-19 22:48:43,044 - src.actions.wallpaper - ERROR - Invalid wallpaper file: C:/Users/Ashwin/Pictures/Wallpapers/night_stars.jpg
+2025-07-19 22:48:43,044 - src.context_clock - WARNING - Failed to change wallpaper
+2025-07-19 22:48:43,044 - src.context_clock - INFO - Opening websites: ['https://youtube.com']
+2025-07-19 22:48:43,044 - src.actions.websites - INFO - Opening website: https://youtube.com
+2025-07-19 22:48:43,383 - src.actions.websites - INFO - Website opened successfully: https://youtube.com
+2025-07-19 22:48:43,383 - src.actions.websites - INFO - Opened 1/1 websites successfully
+2025-07-19 22:48:43,383 - src.context_clock - INFO - Opened 1/1 websites successfully
+2025-07-19 22:48:43,383 - src.context_clock - INFO - Playing audio: C:/Music/Night/sleep_sounds.mp3
+2025-07-19 22:48:43,383 - src.actions.audio - WARNING - Audio file does not exist: C:/Music/Night/sleep_sounds.mp3
+2025-07-19 22:48:43,383 - src.actions.audio - ERROR - Invalid audio file: C:/Music/Night/sleep_sounds.mp3
+2025-07-19 22:48:43,385 - src.context_clock - WARNING - Failed to start audio playback
+2025-07-19 22:48:43,393 - src.context_clock - INFO - Completed actions for time block: night
+2025-07-19 22:48:43,394 - src.config_manager - INFO - Current time block set to: night
+2025-07-19 22:48:43,394 - src.context_clock - INFO - Time block change handled: None -> night
+2025-07-19 22:48:43,394 - src.context_clock - INFO - Time monitoring started (checking every 5 minutes)
+2025-07-19 22:48:43,395 - src.context_clock - INFO - Context Clock application setup completed
+2025-07-19 22:48:43,397 - src.context_clock - INFO - System tray icon shown
+2025-07-19 22:48:43,400 - __main__ - INFO - Context Clock started successfully
