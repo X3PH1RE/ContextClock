@@ -1,0 +1,59 @@
+# Context Clock Configuration
+# Define time blocks and actions for automated environment management
+
+morning:
+  start: "06:00"
+  end: "12:00"
+  wallpaper: "C:/Users/Ashwin/Pictures/Wallpapers/morning_landscape.jpg"
+  apps:
+    - "C:/Windows/System32/notepad.exe"
+    - "C:/Program Files/Microsoft Office/root/Office16/OUTLOOK.EXE"
+  websites:
+    - "https://calendar.google.com"
+    - "https://gmail.com"
+    - "https://news.google.com"
+  music: "C:/Music/Morning/upbeat_morning.mp3"
+
+afternoon:
+  start: "12:00"
+  end: "18:00"
+  wallpaper: "C:/Users/Ashwin/Pictures/Wallpapers/afternoon_office.jpg"
+  apps:
+    - "C:/Program Files/Microsoft VS Code/Code.exe"
+    - "C:/Program Files/Google/Chrome/Application/chrome.exe"
+  websites:
+    - "https://github.com"
+    - "https://stackoverflow.com"
+    - "https://docs.python.org"
+  music: "C:/Music/Afternoon/focus_ambient.mp3"
+
+evening:
+  start: "18:00"
+  end: "22:00"
+  wallpaper: "C:/Users/Ashwin/Pictures/Wallpapers/evening_sunset.jpg"
+  apps:
+    - "C:/Program Files/Spotify/Spotify.exe"
+    - "C:/Program Files/Steam/steam.exe"
+  websites:
+    - "https://netflix.com"
+    - "https://youtube.com"
+    - "https://reddit.com"
+  music: "C:/Music/Evening/relaxing_evening.mp3"
+
+night:
+  start: "22:00"
+  end: "06:00"
+  wallpaper: "C:/Users/Ashwin/Pictures/Wallpapers/night_stars.jpg"
+  apps: []
+  websites:
+    - "https://calm.com"
+  music: "C:/Music/Night/sleep_sounds.mp3"
+
+# Configuration Notes:
+# - Times are in 24-hour format (HH:MM)
+# - Wallpaper can be a single file path or folder path ending with / or \
+# - Apps should be full paths to executable files
+# - Websites will open in your default browser
+# - Music files support common formats (.mp3, .wav, .ogg, etc.)
+# - Empty lists (apps: []) mean no action will be taken
+# - Time blocks can cross midnight (like night: 22:00 to 06:00) 

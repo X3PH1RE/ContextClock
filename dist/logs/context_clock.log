@@ -1,0 +1,95 @@
+2025-07-19 22:32:04,687 - src.actions.audio - INFO - Audio backend: pygame
+2025-07-19 22:32:04,701 - src.config_manager - INFO - Configuration loaded successfully
+2025-07-19 22:32:04,877 - src.ui.system_tray - WARNING - System tray does not support balloon messages
+2025-07-19 22:32:04,879 - src.context_clock - INFO - System tray setup completed
+2025-07-19 22:32:04,879 - src.context_clock - INFO - Time block changed: None -> night
+2025-07-19 22:32:04,879 - src.context_clock - INFO - Executing actions for time block: night
+2025-07-19 22:32:04,880 - src.context_clock - INFO - Changing wallpaper: C:/Users/Ashwin/Pictures/Wallpapers/night_stars.jpg
+2025-07-19 22:32:04,880 - src.actions.wallpaper - WARNING - Wallpaper file does not exist: C:/Users/Ashwin/Pictures/Wallpapers/night_stars.jpg
+2025-07-19 22:32:04,880 - src.actions.wallpaper - ERROR - Invalid wallpaper file: C:/Users/Ashwin/Pictures/Wallpapers/night_stars.jpg
+2025-07-19 22:32:04,881 - src.context_clock - WARNING - Failed to change wallpaper
+2025-07-19 22:32:04,881 - src.context_clock - INFO - Opening websites: ['https://calm.com']
+2025-07-19 22:32:04,881 - src.actions.websites - INFO - Opening website: https://calm.com
+2025-07-19 22:32:05,539 - src.actions.websites - INFO - Website opened successfully: https://calm.com
+2025-07-19 22:32:05,539 - src.actions.websites - INFO - Opened 1/1 websites successfully
+2025-07-19 22:32:05,539 - src.context_clock - INFO - Opened 1/1 websites successfully
+2025-07-19 22:32:05,540 - src.context_clock - INFO - Playing audio: C:/Music/Night/sleep_sounds.mp3
+2025-07-19 22:32:05,540 - src.actions.audio - WARNING - Audio file does not exist: C:/Music/Night/sleep_sounds.mp3
+2025-07-19 22:32:05,540 - src.actions.audio - ERROR - Invalid audio file: C:/Music/Night/sleep_sounds.mp3
+2025-07-19 22:32:05,540 - src.context_clock - WARNING - Failed to start audio playback
+2025-07-19 22:32:05,540 - src.ui.system_tray - INFO - Notification: Time Block Changed - Switched to Night mode
+2025-07-19 22:32:05,541 - src.context_clock - INFO - Completed actions for time block: night
+2025-07-19 22:32:05,542 - src.config_manager - INFO - Current time block set to: night
+2025-07-19 22:32:05,542 - src.context_clock - INFO - Time block change handled: None -> night
+2025-07-19 22:32:05,543 - src.context_clock - INFO - Time monitoring started (checking every 5 minutes)
+2025-07-19 22:32:05,543 - src.context_clock - INFO - Context Clock application setup completed
+2025-07-19 22:32:05,553 - src.context_clock - INFO - System tray icon shown
+2025-07-19 22:32:05,553 - __main__ - INFO - Context Clock started successfully
+2025-07-19 22:33:19,497 - src.actions.audio - INFO - Audio backend: pygame
+2025-07-19 22:33:19,514 - src.config_manager - INFO - Configuration loaded successfully
+2025-07-19 22:33:19,931 - src.ui.system_tray - WARNING - System tray does not support balloon messages
+2025-07-19 22:33:19,931 - src.context_clock - INFO - System tray setup completed
+2025-07-19 22:33:19,932 - src.context_clock - INFO - Time block changed: None -> night
+2025-07-19 22:33:19,932 - src.context_clock - INFO - Executing actions for time block: night
+2025-07-19 22:33:19,932 - src.context_clock - INFO - Changing wallpaper: C:/Users/Ashwin/Pictures/Wallpapers/night_stars.jpg
+2025-07-19 22:33:19,932 - src.actions.wallpaper - WARNING - Wallpaper file does not exist: C:/Users/Ashwin/Pictures/Wallpapers/night_stars.jpg
+2025-07-19 22:33:19,933 - src.actions.wallpaper - ERROR - Invalid wallpaper file: C:/Users/Ashwin/Pictures/Wallpapers/night_stars.jpg
+2025-07-19 22:33:19,933 - src.context_clock - WARNING - Failed to change wallpaper
+2025-07-19 22:33:19,933 - src.context_clock - INFO - Opening websites: ['https://calm.com']
+2025-07-19 22:33:19,933 - src.actions.websites - INFO - Opening website: https://calm.com
+2025-07-19 22:33:22,015 - src.actions.websites - INFO - Website opened successfully: https://calm.com
+2025-07-19 22:33:22,015 - src.actions.websites - INFO - Opened 1/1 websites successfully
+2025-07-19 22:33:22,015 - src.context_clock - INFO - Opened 1/1 websites successfully
+2025-07-19 22:33:22,015 - src.context_clock - INFO - Playing audio: C:/Music/Night/sleep_sounds.mp3
+2025-07-19 22:33:22,016 - src.actions.audio - WARNING - Audio file does not exist: C:/Music/Night/sleep_sounds.mp3
+2025-07-19 22:33:22,016 - src.actions.audio - ERROR - Invalid audio file: C:/Music/Night/sleep_sounds.mp3
+2025-07-19 22:33:22,016 - src.context_clock - WARNING - Failed to start audio playback
+2025-07-19 22:33:22,016 - src.ui.system_tray - INFO - Notification: Time Block Changed - Switched to Night mode
+2025-07-19 22:33:22,016 - src.context_clock - INFO - Completed actions for time block: night
+2025-07-19 22:33:22,045 - src.config_manager - INFO - Current time block set to: night
+2025-07-19 22:33:22,045 - src.context_clock - INFO - Time block change handled: None -> night
+2025-07-19 22:33:22,046 - src.context_clock - INFO - Time monitoring started (checking every 5 minutes)
+2025-07-19 22:33:22,046 - src.context_clock - INFO - Context Clock application setup completed
+2025-07-19 22:33:22,060 - src.context_clock - INFO - System tray icon shown
+2025-07-19 22:33:22,060 - __main__ - INFO - Context Clock started successfully
+2025-07-19 22:33:43,161 - src.context_clock - INFO - Shutting down Context Clock...
+2025-07-19 22:33:43,226 - src.context_clock - INFO - Context Clock shutdown completed
+2025-07-19 22:33:43,226 - src.ui.system_tray - INFO - Exit requested from system tray
+2025-07-19 22:34:06,178 - src.context_clock - INFO - Shutting down Context Clock...
+2025-07-19 22:34:06,239 - src.context_clock - INFO - Context Clock shutdown completed
+2025-07-19 22:34:06,239 - src.ui.system_tray - INFO - Exit requested from system tray
+2025-07-19 22:36:06,474 - src.actions.audio - INFO - Audio backend: pygame
+2025-07-19 22:36:06,498 - src.config_manager - INFO - Configuration loaded successfully
+2025-07-19 22:36:06,723 - src.ui.system_tray - WARNING - System tray does not support balloon messages
+2025-07-19 22:36:06,724 - src.context_clock - INFO - System tray setup completed
+2025-07-19 22:36:06,724 - src.context_clock - INFO - Time block changed: None -> night
+2025-07-19 22:36:06,724 - src.context_clock - INFO - Executing actions for time block: night
+2025-07-19 22:36:06,724 - src.context_clock - INFO - Changing wallpaper: C:/Users/Ashwin/Pictures/Wallpapers/night_stars.jpg
+2025-07-19 22:36:06,725 - src.actions.wallpaper - WARNING - Wallpaper file does not exist: C:/Users/Ashwin/Pictures/Wallpapers/night_stars.jpg
+2025-07-19 22:36:06,725 - src.actions.wallpaper - ERROR - Invalid wallpaper file: C:/Users/Ashwin/Pictures/Wallpapers/night_stars.jpg
+2025-07-19 22:36:06,725 - src.context_clock - WARNING - Failed to change wallpaper
+2025-07-19 22:36:06,725 - src.context_clock - INFO - Opening websites: ['https://calm.com']
+2025-07-19 22:36:06,725 - src.actions.websites - INFO - Opening website: https://calm.com
+2025-07-19 22:36:07,156 - src.actions.websites - INFO - Website opened successfully: https://calm.com
+2025-07-19 22:36:07,156 - src.actions.websites - INFO - Opened 1/1 websites successfully
+2025-07-19 22:36:07,158 - src.context_clock - INFO - Opened 1/1 websites successfully
+2025-07-19 22:36:07,158 - src.context_clock - INFO - Playing audio: C:/Music/Night/sleep_sounds.mp3
+2025-07-19 22:36:07,158 - src.actions.audio - WARNING - Audio file does not exist: C:/Music/Night/sleep_sounds.mp3
+2025-07-19 22:36:07,158 - src.actions.audio - ERROR - Invalid audio file: C:/Music/Night/sleep_sounds.mp3
+2025-07-19 22:36:07,158 - src.context_clock - WARNING - Failed to start audio playback
+2025-07-19 22:36:07,159 - src.ui.system_tray - INFO - Notification: Time Block Changed - Switched to Night mode
+2025-07-19 22:36:07,159 - src.context_clock - INFO - Completed actions for time block: night
+2025-07-19 22:36:07,160 - src.config_manager - INFO - Current time block set to: night
+2025-07-19 22:36:07,160 - src.context_clock - INFO - Time block change handled: None -> night
+2025-07-19 22:36:07,160 - src.context_clock - INFO - Time monitoring started (checking every 5 minutes)
+2025-07-19 22:36:07,160 - src.context_clock - INFO - Context Clock application setup completed
+2025-07-19 22:36:07,165 - src.context_clock - INFO - System tray icon shown
+2025-07-19 22:36:07,165 - __main__ - INFO - Context Clock started successfully
+2025-07-19 22:37:01,361 - src.ui.system_tray - INFO - Notification: Configuration - Reloading configuration...
+2025-07-19 22:37:01,377 - src.config_manager - INFO - Configuration loaded successfully
+2025-07-19 22:37:01,378 - src.context_clock - INFO - Configuration reloaded successfully
+2025-07-19 22:37:01,379 - src.ui.system_tray - INFO - Notification: Configuration Reloaded - Configuration has been reloaded successfully
+2025-07-19 22:37:01,379 - src.ui.system_tray - INFO - Configuration reload requested
+2025-07-19 22:37:41,981 - src.context_clock - INFO - Shutting down Context Clock...
+2025-07-19 22:37:42,371 - src.context_clock - INFO - Context Clock shutdown completed
+2025-07-19 22:37:42,371 - src.ui.system_tray - INFO - Exit requested from system tray
